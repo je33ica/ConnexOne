@@ -50,6 +50,12 @@ const Page = () => {
     return current
   }, 1000);
 
+  let current = Math.round(new Date().getTime() / 1000);
+  console.log("ctime", setInterval(current, 1000))
+
+    console.log("current", current)
+
+
   return (
     <>
       <div className="content-container">

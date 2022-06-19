@@ -11,7 +11,7 @@ const Epoch = ({isLoading,promEpoch, difference }) => {
         <>
           <h1>PROMETHEUS TIME : {promEpoch} </h1>
           <h1>
-            DIFFERENCE :{difference}
+            DIFFERENCE :{difference} on it's way..
           
           </h1>
         </>

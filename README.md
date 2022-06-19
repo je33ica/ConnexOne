@@ -1,5 +1,5 @@
-# Connex One ## Full Stack Developer Technical Test
-# A full stack app for displaying Prometheus Metrics
+# Connex One Technical test
+## A full stack app for displaying Prometheus Metrics
 
 ## Quick Start
 Fork the repository, clone it to your local system, then:
